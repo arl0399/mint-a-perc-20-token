@@ -1,8 +1,8 @@
 
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+github : arl033
+twitter : @arl0399
+telegram : @arl_0399
 
-0xCd825ae0335190f4c8882DF16FB0577d478b3898
+
